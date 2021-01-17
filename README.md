@@ -51,7 +51,7 @@ OPTIONS:
 ![League of Legends](images/league_of_legends.png)
 
 #### League of Legends - reproduce the map and stretch to window size
-![League of Legends - stretch](images/league_of_legends.png)
+![League of Legends - stretch](images/league_of_legends_stretch.png)
 
 #### Starcraft2 - reproduce the map, adapt to aspect ratio
 ![Starcraft2](images/starcraft2.png)
