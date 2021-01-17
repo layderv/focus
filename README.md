@@ -10,6 +10,8 @@ I made this to show the map or other parts of a game on another display.
 
 This is a simple way to add support for games for multiple displays. The refresh rate of the window is around 30 fps.
 
+The `builds` directory contains pre-built executables for Windows and Linux.
+
 ## Usage
 
 ```
